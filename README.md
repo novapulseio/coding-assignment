@@ -3,7 +3,7 @@
 Thank you for your interest in our developer position. This assessment consists of two assignments that will help us evaluate your technical skills, problem-solving abilities, and coding practices.
 
 ## Timeline
-- You have 72 hours from receiving this assignment to submit your solution
+- You have 48 hours from receiving this assignment to submit your solution
 - Please submit your solution as a GitHub repository link
 
 ## Assignment 1: CEX/DEX Price Arbitrage Scanner
